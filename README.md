@@ -1,2 +1,2 @@
 # installing
-maaf kalo script ini rusak
+#ini salah upload ajg
